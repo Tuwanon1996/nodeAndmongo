@@ -1,0 +1,27 @@
+{
+  "name": "nodeandmongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuwanon1996/nodeAndmongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuwanon1996/nodeAndmongo/issues"
+  },
+  "homepage": "https://github.com/Tuwanon1996/nodeAndmongo#readme",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
